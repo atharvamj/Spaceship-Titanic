@@ -47,7 +47,3 @@ Ensure you have the following dependencies installed:
 - scikit-learn
 - NumPy
 
-Install the required dependencies using:
-
-```bash
-pip install -r requirements.txt
